@@ -4,7 +4,7 @@
 SELECT DATETIME('now');
 SELECT DATE('now');
 SELECT TIME('now');
-SELECT DATETIME('now', '+1 day');
+SELECT DATETIME('now', '+1 day'); 
 SELECT DATETIME('now', '+3 days');
 SELECT DATETIME('now', '-1 month');
 SELECT DATETIME('now', '+1 year');
